@@ -32,6 +32,8 @@ Anatomy of the Elemental Warfighter mod for Elden Ring
   - Editing HavokScript
   - Notes on Tracing and Debugging
   - Example: Whirlwind on Sprint
+  - Doing it without code in DS Param Studio
+    - HKS Events
   - Good practices when editing code
 - Resources and Links
   - Yabber / WithcyBND
