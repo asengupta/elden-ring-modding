@@ -11,7 +11,7 @@ We will do a breadth-first tour of the entire tour. This will cover many aspects
 
 ## A Note about the Environment
 
-# Contents (in roughly increasing Levels of Difficulty)
+## Contents (in roughly increasing Levels of Difficulty)
 
 - Editing Armor Models
   - Armor Model Edit Workflow with Blender and FLVER Editor
