@@ -1,4 +1,4 @@
-# Anatomy of the Elemental Warfighter mod for Elden Ring
+# Anatomy of the Elemental Tank mod for Elden Ring
 
 ## Which mods are referenced in this tutorial
 - See [Elemental Tank](https://www.nexusmods.com/eldenring/mods/4920) for animation-related topics.
