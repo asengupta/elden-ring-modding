@@ -5,7 +5,11 @@ See [Elemental Tank](https://www.nexusmods.com/eldenring/mods/4920)
 
 - What will we be dissecting?
 
-We will do a breadth-first tour of the entire tour. This will cover many aspects of mod-making at various levels of complexity, but obviously not all.
+We will do a breadth-first tour of the entire tour. This will cover many aspects of mod-making at various levels of complexity, but obviously not all. There are also a whole host of tutorials available on the [Souls Modding Wiki](http://soulsmodding.wikidot.com/).
+
+# A Note about Version Control
+
+# A Note about the Environment
 
 # Levels of Difficulty
 
@@ -35,7 +39,8 @@ We will do a breadth-first tour of the entire tour. This will cover many aspects
   - Reusing Player Character Behaviours
     - Bullets and InvokeBulletBehavior
     - Attacks and InvokeAttackBehavior
-    - Example: Dodge Stomp
+    - Mod Example: Dodge Stomp
+    - Mod Example: Glintstone Pull
   - Using NPC Behaviours
     = Example: Draconic Tree Sentinel's AoE Lightning Strike
   - Behaviours without Coding: HKS Events
@@ -43,29 +48,29 @@ We will do a breadth-first tour of the entire tour. This will cover many aspects
   - Instrumenting your code
   - Debugging and Tracing
   - Good practices when editing code
-  - Example: Beast Claw on Land
+  - Mod Example: Beast Claw on Land
+  - Debugging HKS
+    - Using common_define.hks and DSLuaDecompiler
+    - Mod Example: Whirlwind on Sprint
 - Modifying the game from the inside (C++ / Assembly)
   - Exploration with Cheat Engine
   - Writing decorators
   - Revisiting HKS: Triggering act() only Once in a SpEffect
   - Example: Blink Strike
-
-- Tools
-- Version Control
 - Resources and Links
-  - Yabber / WithcyBND
+  - Yabber / WitchyBND
   - UXM Selective Unpacker
   - SkyrimFbxImporter
   - ModEngine 2
   - HkLibCLI
-  - Havok Toolset
+  - Havok Toolset (Fbx2Gltf)
   - Havok Content Tools
   - ERClipGenerator
   - DS Map Studio
   - DS Animation Studio
   - Elden Ring Debug Tool
   - Cheat Engine (Hexinton and TGA tables)
-  - MinHksLib
   - FLVER Editor
   - DSLuaDecompiler
-  - etc.
+  - Visual Studio
+  - ElaDiDu's Script Data Exposer
