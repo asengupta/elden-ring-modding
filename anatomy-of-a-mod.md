@@ -43,7 +43,7 @@ We will do a breadth-first tour of the entire tour. This will cover many aspects
     - Mod Example: Dodge Stomp
     - Mod Example: Glintstone Pull
   - Using NPC Behaviours
-    = Example: Draconic Tree Sentinel's AoE Lightning Strike
+    - Example: Draconic Tree Sentinel's AoE Lightning Strike
   - Behaviours without Coding: HKS Events
 - HKS Editing
   - Instrumenting your Lua code: Discovering what gets triggered when
