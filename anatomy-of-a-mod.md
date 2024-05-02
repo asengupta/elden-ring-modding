@@ -11,8 +11,15 @@ We will do a breadth-first tour of the entire tour. This will cover many aspects
 
 # A Note about the Environment
 
-# Levels of Difficulty
+# Contents (in roughly increasing Levels of Difficulty)
 
+- Editing Armor Models
+  - Armor Model Edit Workflow with Blender and FLVER Editor
+  - Possible Issues
+    - Global Rotation
+    - No Weight Paint
+    - Rubber-banding armor in-game: Vertex Groups which do not have a corresponding bone
+    - Mod Example: Crucible Tree Knight armor with Crucible Axe Knight pauldrons
 - Replacing / Overriding Existing Animations
   - Mod Example: Idle / Walk / Run animations
 - Editing Existing Animations
@@ -62,12 +69,6 @@ We will do a breadth-first tour of the entire tour. This will cover many aspects
   - General debugging and logging practices
   - Revisiting HKS: Triggering act() only Once in a SpEffect
   - Example: Blink Strike
-- Editing Armor Models
-  - Possible Issues
-    - Global Rotation
-    - No Weight Paint
-    - Rubber-banding armor in-game: Vertex Groups which do not have a corresponding bone
-    - Mod Example: Crucible Tree Knight armor with Crucible Axe Knight pauldrons
 - Resources and Links
   - Yabber / WitchyBND
   - UXM Selective Unpacker
