@@ -33,6 +33,7 @@ We will do a breadth-first tour of the entire tour. This will cover many aspects
   - Modifying your BEHBND
     - Doing it manually
     - Doing it through ERClipGenerator
+    - What does the Game Loop look like, roughly?
   - Exploring the state machines
   - Mod Example: Custom 1H Flame Art Zweihander moveset
 - Creating Bullets, Attacks, Special Effects, and Behaviours
@@ -45,16 +46,20 @@ We will do a breadth-first tour of the entire tour. This will cover many aspects
     = Example: Draconic Tree Sentinel's AoE Lightning Strike
   - Behaviours without Coding: HKS Events
 - HKS Editing
-  - Instrumenting your code
-  - Debugging and Tracing
-  - Good practices when editing code
+  - Instrumenting your Lua code: Discovering what gets triggered when
+  - Debugging problematic code
+  - Good code practices
   - Mod Example: Beast Claw on Land
   - Debugging HKS
     - Using common_define.hks and DSLuaDecompiler
     - Mod Example: Whirlwind on Sprint
 - Modifying the game from the inside (C++ / Assembly)
   - Exploration with Cheat Engine
-  - Writing decorators
+  - Writing decorators (MASM)
+  - Notes about addresses
+  - Notes on calling assembly from C++
+  - Notes on calling C++ from assembly
+  - General debugging and logging practices
   - Revisiting HKS: Triggering act() only Once in a SpEffect
   - Example: Blink Strike
 - Resources and Links
