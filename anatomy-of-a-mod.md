@@ -1,15 +1,15 @@
 # Anatomy of the Elemental Warfighter mod for Elden Ring
 
-- What this mod does
-See [Elemental Tank](https://www.nexusmods.com/eldenring/mods/4920)
+## Which mods are referenced in this tutorial
+- See [Elemental Tank](https://www.nexusmods.com/eldenring/mods/4920) for animation-related topics.
+- See [Crucible Tree Armor with Crucible Axe pauldrons](https://www.nexusmods.com/eldenring/mods/4812) for armor modelling topics.
 
-- What will we be dissecting?
-
+## What will we be dissecting?
 We will do a breadth-first tour of the entire tour. This will cover many aspects of mod-making at various levels of complexity, but obviously not all. There are also a whole host of tutorials available on the [Souls Modding Wiki](http://soulsmodding.wikidot.com/).
 
-# A Note about Version Control
+## A Note about Version Control
 
-# A Note about the Environment
+## A Note about the Environment
 
 # Contents (in roughly increasing Levels of Difficulty)
 
